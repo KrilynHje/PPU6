@@ -1,0 +1,14 @@
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\PPU6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\PPU6.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\PPU6.AssemblyInfo.cs
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\PPU6.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\bin\Debug\net8.0\PPU6.exe
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\bin\Debug\net8.0\PPU6.deps.json
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\bin\Debug\net8.0\PPU6.runtimeconfig.json
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\bin\Debug\net8.0\PPU6.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\bin\Debug\net8.0\PPU6.pdb
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\PPU6.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\refint\PPU6.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\PPU6.pdb
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\PPU6.genruntimeconfig.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\PPU6\PPU6\obj\Debug\net8.0\ref\PPU6.dll
